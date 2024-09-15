@@ -1,0 +1,16 @@
+Key Points:
+Object jonas:
+
+An object is defined with properties: firstName, lastName, age, job, and friends.
+Properties can be accessed using dot notation (.) or bracket notation ([]).
+Dot Notation vs. Bracket Notation:
+
+Dot notation (jonas.lastName) is used for properties with fixed names.
+Bracket notation (jonas['lastName']) allows for dynamic access and is useful for property names that are not valid identifiers or are determined at runtime.
+Dynamic Property Access:
+
+Properties can be accessed dynamically using concatenation of strings (e.g., jonas['first' + nameKey]).
+User Input:
+
+The prompt function asks the user for input on which property they want to know about.
+The code checks if the input property exists in the jonas object and displays its value. If the property does not exist, it displays "Not Found.

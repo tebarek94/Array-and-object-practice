@@ -1,0 +1,15 @@
+Key Points:
+Function calcTip:
+
+Takes a bill amount as input.
+Calculates the tip based on whether the bill falls within a specified range (15 to 300 inclusive) or not.
+Uses a ternary operator to return the appropriate tip amount.
+Array bills:
+
+Contains the amounts of bills for which tips need to be calculated.
+Array tips:
+
+Stores the tip amounts calculated for each corresponding bill in the bills array.
+Array total:
+
+Contains the sum of each bill and its corresponding tip, representing the total amount to be paid for each bill.
