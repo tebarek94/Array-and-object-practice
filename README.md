@@ -2,8 +2,6 @@
 
 This repository contains various coding practice exercises and projects from class. Each folder represents a different practice task or exercise.
 
-## Folders
-
 - **bmi-calculator**: Contains a simple BMI calculator implementation in JavaScript.
 - **some-other-practice**: Additional practice exercises and code examples.
 
